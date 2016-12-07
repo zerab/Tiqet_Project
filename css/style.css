@@ -1,0 +1,178 @@
+body
+{
+	background:url("blurred-bg.jpg");
+	background-size:1366px;
+}
+.header
+{
+	Background-color:#a21d21;
+	text-align:center;
+}
+.menus
+{
+	height:80px;
+	color:#ffffff;
+}
+.menus:hover
+{
+	background-color:#6f1417;
+	-webkit-transition:0.1s linear;
+	-moz-transition:0.1s linear;
+}
+.headericon
+{
+	font-size:25px;
+	margin-top:20px;
+}
+.judul
+{
+	font-size:12px;
+	font-family:arial;
+}
+#logo
+{
+	width:200px;
+	margin-top:10px;
+}
+
+a
+{
+	color:#ffffff;
+}
+a:hover
+{
+	color:#ffffff;
+}
+.login
+{
+	background:rgba(0,0,0,0.25);
+	position:absolute;
+	top:200px;
+	text-align:center;
+	color:#ffffff;
+	font-size:20px;
+	border-radius:10px;
+	padding:50px;
+}
+.separator
+{
+	padding-bottom:20px;
+}
+.separator-1
+{
+	padding-left:10px;
+}
+.form-style
+{
+	background:rgba(0,0,0,0.25);
+	color:#ffffff;
+}
+.medium
+{
+	font-size:medium;
+}
+.fixedbtn
+{
+	color:#ffffff;
+	background-color:#a21d21;
+	border:0;
+	border-radius:5px;
+}
+.fixedbtn:hover
+{
+	background-color:#ffffff;
+	color:#a21d25;
+	-webkit-transition:0.2s;
+	-moz-transition:0.2s;
+}
+.small
+{
+	font-size:small;
+}
+.buat
+{
+		color:#a21d25;
+}
+.berhasil
+{
+	background:rgba(0,0,0,0.25);
+	position:absolute;
+	top:250px;
+	text-align:center;
+	color:#ffffff;
+	font-size:30px;
+	border-radius:10px;
+	padding:30px;
+}
+.utama
+{
+	width:400px;
+	height:80px;
+	color:#ffffff;
+	background-color:#a21d21;
+	border:0;
+	border-radius:5px;
+}
+.utama:hover
+{
+	background-color:#ffffff;
+	color:#a21d25;
+	-webkit-transition:0.2s;
+	-moz-transition:0.2s;
+}
+.user-container
+{
+	background:rgba(0,0,0,0.25);
+	color:#ffffff;
+	position:relative;
+	top:10px;
+	padding:20px 20px;
+	border-radius:5px;
+}
+.daftar
+{
+	background:rgba(0,0,0,0.25);
+	position:absolute;
+	top:130px;
+	text-align:center;
+	color:#ffffff;
+	font-size:20px;
+	border-radius:10px;
+	padding:50px;
+}
+.large
+{
+	font-size:100px;
+}
+.user-column
+{
+	color:#ffffff;
+}
+
+.profile-pic
+{
+	color:#a21d25;
+	padding:20px;
+	background-color:#ffffff;
+	border-radius:10px;
+}
+.profile
+{
+	text-align:left;
+	padding:10px;
+}
+.akun
+{
+	background:rgba(0,0,0,0.25);
+	position:absolute;
+	top:130px;
+	text-align:center;
+	color:#ffffff;
+	font-size:30px;
+	border-radius:10px;
+	padding:30px;
+}
+.tabel
+{
+	margin-left:20px;
+}
